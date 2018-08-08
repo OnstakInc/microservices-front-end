@@ -1,1 +1,1 @@
-# microservices-front-end
+# Microservices Demo - Front End
